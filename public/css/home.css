@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	
+
+}
+body{
+	background: url(bg_img.jpg) no-repeat;
+	background-size: cover;
+
+}
+.btn{
+    padding: 10px 60px ;
+    background: #fff;
+    border: 0;
+    outline:none;
+    cursor: pointer;
+    font-size: 40px;
+    font-weight: 500;
+    border-radius: 30px;
+   
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
