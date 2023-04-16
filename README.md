@@ -1,4 +1,4 @@
-# elitmus
+# elitmus PUZZLE GAME
 A puzzle game including clues to find the the solution:
 Game Play:
 User need to login to the account if the user already ha an account.
